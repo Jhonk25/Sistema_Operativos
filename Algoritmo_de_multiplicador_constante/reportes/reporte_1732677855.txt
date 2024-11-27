@@ -1,0 +1,14 @@
+GENERACIÓN DE NÚMEROS PSEUDOALEATORIOS
+Método de Multiplicador Constante
+Semilla inicial: 9897
+Constante: 20
+
+Resultados de Generación:
+Total de números generados: 6
+Hay números repetidos: Sí
+
+Detalles de Números Repetidos:
+Número repetido: 0 (índices: 5, 6)
+
+Números Generados:
+0.1979, 0.0395, 0.0079, 0.0015, 0.0003, 0.0000, 
